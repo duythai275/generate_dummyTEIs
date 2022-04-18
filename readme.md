@@ -22,5 +22,5 @@ In order to update the template data, edit in `getTemplate.js`.\
 All TEIs are stored in `data` directory.
 
 ### Run `node importingData.js`
+The script will import the dummy data. Then return the result of the importing process. You can check the results in `results` directory in order to fix any error occured after importing. For example: the program is not assigned to some orgUnits in the destination instance.
 
-The script will import the transformed data. Then return the result of the importing process. You can check the results in `results` directory in order to fix any error occured after importing. For example: the program is not assigned to some orgUnits in the destination instance.
