@@ -16,8 +16,8 @@ Generating TEIs, Enrollments and Events following the defined templates. Along w
 
 ### Run `node generatingData.js`
 
-This script generates TEIs with Enrollments and Events base on the template data and following the report.\ 
-The report name can be editted in this script file.\ 
+This script generates TEIs with Enrollments and Events base on the template data and following the report.\
+The report name can be editted in this script file.\
 In order to update the template data, edit in `getTemplate.js`.\
 All TEIs are stored in `data` directory.
 
